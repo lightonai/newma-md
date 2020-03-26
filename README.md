@@ -1,6 +1,6 @@
 # Conformational exploration SARS-CoV-2 (coronavirus responsible for COVID-19)
 
-This repository contains the script to reproduce the results of Figure 4 of the blog post **Coronavirus “SARS-CoV-2” conformational change-points detected with optical random features**. 
+This repository contains the script to reproduce the results of Figure 4 of the blog post [**Coronavirus “SARS-CoV-2” conformational change-points detected with optical random features**](https://medium.com/@LightOnIO/accelerating-sars-cov2-molecular-dynamics-studies-with-optical-random-features-b8cffdb99b01). 
 
 ## How to install 
 
