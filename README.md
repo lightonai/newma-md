@@ -6,7 +6,7 @@ This repository contains the script to reproduce the results of Figure 4 of the 
 
 We advise creating a `virtualenv` before running these commands. You can create one with `python3 -m venv <venv_name>`. Activate it with source `<path_to_venv>/bin/activate`  before proceeding. We used `python 3.7`for all the simulations.
 
-- Clone the repository and then do `pip install <path_to_repo>`.
+- Clone the repository and then do `pip install -r requirements.txt`.
 - Download the dataset from [this page](https://figshare.com/articles/6_molecular_dynamics_simulations_of_coronavirus_2019-nCoV_protease_model_in_complex_with_different_conformations_of_lopinavir_/11764158). You should put the dataset in the  same folder as the repository. Otherwise, make sure to update the variable ```path traj```.
 
 
