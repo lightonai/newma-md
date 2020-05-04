@@ -21,6 +21,12 @@ python newma_coronavirus.py
 
 This outputs a numpy zipped archive `newmaopu_corona_natoms_{n_atoms}.npz`. To analyse the results and create your own plot, use the notebook `corona_exploration.ipynb`.
 
+## Access to Optical Processing Units
+
+To request access to LightOn Cloud and try our photonic co-processor, please visit: https://cloud.lighton.ai/
+
+For researchers, we also have a LightOn Cloud for Research program, please visit https://cloud.lighton.ai/lighton-research/ for more information.
+
 ## Hardware Specifications
 
 All our results were obtains on a Intel(R) Xeon(R) Gold 6128 CPU @3.40GHz with 12 cores. 
