@@ -1,10 +1,12 @@
-# Conformational exploration SARS-CoV-2 (coronavirus responsible for COVID-19)
+# <img src="_static/lighton_small.png" width=60/> Conformational exploration SARS-CoV-2 (coronavirus responsible for COVID-19)
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Twitter](https://img.shields.io/twitter/follow/LightOnIO?style=social)](https://twitter.com/LightOnIO)
 
 This repository contains the script to reproduce the results of the blog post [**Coronavirus “SARS-CoV-2” conformational change-points detected with optical random features**](https://medium.com/@LightOnIO/accelerating-sars-cov2-molecular-dynamics-studies-with-optical-random-features-b8cffdb99b01) as well as the results of Optical Random Features versus SARS-CoV-2 Glycoprotein Trajectory: Round#2. 
 
 ## 
 
-## How to install
+## Requirements
 
 We advise creating a `virtualenv` before running these commands. You can create one with `python3 -m venv <venv_name>`. Activate it with source `<path_to_venv>/bin/activate`  before proceeding. We used `python 3.7`for all the simulations.
 
@@ -31,7 +33,7 @@ python newma_coronavirus_DESRES.py
 
 This outputs a numpy zipped archive. To analyse the results and create your own plot, use the notebook `notebooks/corona_exploration_DESRES.ipynb`.
 
-## Access to Optical Processing Units
+## <img src="_static/lighton_cloud_small.png" width=120/> Access to Optical Processing Units
 
 To request access to LightOn Cloud and try our photonic co-processor, please visit: <https://cloud.lighton.ai/>
 
