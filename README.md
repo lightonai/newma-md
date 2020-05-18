@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Twitter](https://img.shields.io/twitter/follow/LightOnIO?style=social)](https://twitter.com/LightOnIO)
 
-This repository contains the script to reproduce the results of the blog post [**Coronavirus “SARS-CoV-2” conformational change-points detected with optical random features**](https://medium.com/@LightOnIO/accelerating-sars-cov2-molecular-dynamics-studies-with-optical-random-features-b8cffdb99b01) as well as the results of Optical Random Features versus SARS-CoV-2 Glycoprotein Trajectory: Round#2. 
+This repository contains the script to reproduce the results of the blog post [**Coronavirus “SARS-CoV-2” conformational change-points detected with optical random features**](https://medium.com/@LightOnIO/accelerating-sars-cov2-molecular-dynamics-studies-with-optical-random-features-b8cffdb99b01) as well as the results of [**Optical Random Features versus SARS-CoV-2 Glycoprotein Trajectory: Round#2**](https://medium.com/@LightOnIO/optical-random-features-versus-sars-cov-2-glycoprotein-trajectory-round-2-adcf04d6036d).
 
 ## 
 
@@ -25,7 +25,7 @@ python newma_coronavirus.py
 
 This outputs a numpy zipped archive. To analyse the results and create your own plot, use the notebook `notebooks/corona_exploration.ipynb`.
 
-For replicating the results of [**Optical Random Features versus SARS-CoV-2 Glycoprotein Trajectory: Round#2**](https://medium.com/@LightOnIO/accelerating-sars-cov2-molecular-dynamics-studies-with-optical-random-features-b8cffdb99b01): start by running
+For replicating the results of [**Optical Random Features versus SARS-CoV-2 Glycoprotein Trajectory: Round#2**](https://medium.com/@LightOnIO/optical-random-features-versus-sars-cov-2-glycoprotein-trajectory-round-2-adcf04d6036d): start by running
 
 ```
 python newma_coronavirus_DESRES.py
