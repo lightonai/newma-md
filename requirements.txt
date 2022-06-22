@@ -1,6 +1,6 @@
 lightonml==1.0.2
 matplotlib==3.1.2
 MDAnalysis==0.20.1
-numpy==1.18.1
+numpy==1.22.0
 -e git+https://gitlab.lighton.ai/ml/newma-paper.git@21664d609b29fa7951bbf76fe1448d367e80b30d#egg=onlinecp&subdirectory=code
 seaborn==0.10.0
